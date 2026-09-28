@@ -1,4 +1,5 @@
 # Corral — lightweight structured concurrency for C++20
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SILVER-CENT/corral)
 
 ## Purpose
 
